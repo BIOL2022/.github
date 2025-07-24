@@ -31,3 +31,7 @@ Some, but not all, lectures have been developed as open resources on GitHub. The
 - [(Almost) every technique is a linear model](https://biol2022.github.io/L02c-all-linear-model/)
 - [Is my model appropriate?](https://biol2022.github.io/L03a-model-appropriate/)
 - [Introduction to t-tests – a special case of the GLM](https://biol2022.github.io/L03b-ttests/)
+- [Modelling relationships – multiple linear regression](https://biol2022.github.io/L04a-mlr/)
+- [Modelling relationships – the analysis of variance](https://github.com/BIOL2022/L04b-anova)
+- [Model transformations](https://biol2022.github.io/L04c-model-transformations/)
+- [Control, fixed and random variables](https://biol2022.github.io/L05a-blocking-fixed-random/)
