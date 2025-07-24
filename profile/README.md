@@ -27,3 +27,7 @@ Some, but not all, lectures have been developed as open resources on GitHub. The
 - [Welcome to BEDA](https://biol2022.github.io/L00-Welcome-to-BEDA/)
 - [(Re-) introduction to experimental design and analysis](https://biol2022.github.io/L01-intro-exp-design-analysis/)
 - [What is a representative sample?](https://biol2022.github.io/L02a-represenative-sampling/)
+- [Modelling fundamentals – the linear model](https://biol2022.github.io/L02b-linear-model/)
+- [(Almost) every technique is a linear model](https://biol2022.github.io/L02c-all-linear-model/)
+- [Is my model appropriate?](https://biol2022.github.io/L03a-model-appropriate/)
+- [Introduction to t-tests – a special case of the GLM](https://biol2022.github.io/L03b-ttests/)
