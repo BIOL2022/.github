@@ -1,37 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# BIOL2022
 
-**Here are some ideas to get you started:**
+**Biology Experimental Design and Analysis (BEDA)**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-This is the Open Educations Resource repository for BIOL2022 Biology Experimental Design and Analysis (BEDA), a second-year undergraduate Unit of Study at the University of Sydney. Open Educational Resources are freely accessible, openly licensed learning, teaching, and research materials. They can be used, adapted, and shared without cost, promoting wider access to educational content. 
+School of Life and Environmental Sciences, The University of Sydney
 
-> Any BIOL2022 project or resource hosted on GitHub is published under some sort of Creative Commons license. Unless otherwise stated, this licence is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/). Images, on the other hand, are copyrighted unless the CC license is explicitly provided in the image caption.
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Made with Quarto](https://img.shields.io/badge/Made_with-Quarto-blue?logo=quarto)](https://quarto.org)
+[![Made with R](https://img.shields.io/badge/Powered_by-R-276DC3?logo=r)](https://www.r-project.org/)
 
-**This organisation is part of the [SOLES OER project](https://github.com/usyd-soles-edu).**
+</div>
 
-## Unit Manual
+<table align="center">
+<tr>
+<td align="center">
 
-A manual is available for BEDA, currently still under construction. A link will be provided soon.
+### BEDA Handbook
 
-## Lectures
+[![Open Handbook](https://img.shields.io/badge/Open_Handbook-2ea043?style=for-the-badge)](https://biol2022.github.io/BEDA-handbook/)
 
-Some, but not all, lectures have been developed as open resources on GitHub. These are linked below.
+**3** modules across **13** weeks<br>
+**12** practicals with workshops<br>
+Assessment rubrics and project briefs<br>
+Species ID guide and intertidal site images<br>
+Cheatsheets and study resources
 
-- [Welcome to BEDA](https://biol2022.github.io/L00-Welcome-to-BEDA/)
-- [(Re-) introduction to experimental design and analysis](https://biol2022.github.io/L01-intro-exp-design-analysis/)
-- [What is a representative sample?](https://biol2022.github.io/L02a-represenative-sampling/)
-- [Modelling fundamentals – the linear model](https://biol2022.github.io/L02b-linear-model/)
-- [(Almost) every technique is a linear model](https://biol2022.github.io/L02c-all-linear-model/)
-- [Is my model appropriate?](https://biol2022.github.io/L03a-model-appropriate/)
-- [Introduction to t-tests – a special case of the GLM](https://biol2022.github.io/L03b-ttests/)
-- [Modelling relationships – multiple linear regression](https://biol2022.github.io/L04a-mlr/)
-- [Modelling relationships – the analysis of variance](https://github.com/BIOL2022/L04b-anova)
-- [Model transformations](https://biol2022.github.io/L04c-model-transformations/)
-- [Control, fixed and random variables](https://biol2022.github.io/L05a-blocking-fixed-random/)
+</td>
+</tr>
+</table>
+
+### Open-source lectures
+
+We are progressively open-sourcing lecture slide decks for BEDA. The following are available so far:
+
+- `L00` — [Welcome to BEDA](https://biol2022.github.io/L00-Welcome-to-BEDA/)
+- `L01` — [(Re-) introduction to experimental design and analysis](https://biol2022.github.io/L01-intro-exp-design-analysis/)
+- `L02a` — [What is a representative sample?](https://biol2022.github.io/L02a-represenative-sampling/)
+- `L02b` — [Modelling fundamentals: the linear model](https://biol2022.github.io/L02b-linear-model/)
+- `L02c` — [(Almost) every technique is a linear model](https://biol2022.github.io/L02c-all-linear-model/)
+- `L03a` — [Is my model appropriate?](https://biol2022.github.io/L03a-model-appropriate/)
+- `L03b` — [Introduction to t-tests: a special case of the GLM](https://biol2022.github.io/L03b-ttests/)
+- `L04a` — [Modelling relationships: multiple linear regression](https://biol2022.github.io/L04a-mlr/)
+- `L04b` — [Modelling relationships: the analysis of variance](https://biol2022.github.io/L04b-anova/)
+- `L04c` — [Model transformations](https://biol2022.github.io/L04c-model-transformations/)
+- `L05a` — [Control, fixed and random variables](https://biol2022.github.io/L05a-blocking-fixed-random/)
+- `L05b` — [Revision](https://biol2022.github.io/L05b-revision/)
+
+BIOL2022 is part of [SOLES Open Educational Resources](https://github.com/usyd-soles-edu). This second-year unit teaches experimental design, statistical principles, and hypothesis testing for biology students, with practical sessions where students design and conduct their own experiments.
+
+### Reuse and attribution
+
+All materials are released under **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**. Images are copyrighted unless a CC licence is explicitly stated in the caption. If you use these resources, please cite them.
+
+---
+
+<div align="center">
+
+*Contributions welcome.* [*Open an issue*](https://github.com/BIOL2022/BEDA-handbook/issues) *to get started.*
+
+</div>
